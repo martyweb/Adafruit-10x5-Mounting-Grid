@@ -27,6 +27,8 @@ These are the various components you can mount to the board
 
 ## Image
 
+![Lid](https://github.com/martyweb/Adafruit-10x5-Mounting-Grid/blob/10c7781a16e584b159aecfcbf5b200fcd3d136ad/fusion360_assembly/10x5%20Assembly%20v8%20lid.png)
+![Box](https://github.com/martyweb/Adafruit-10x5-Mounting-Grid/blob/10c7781a16e584b159aecfcbf5b200fcd3d136ad/fusion360_assembly/10x5%20Assembly%20v8%20box.png)
 ![Image of Project](https://github.com/martyweb/Adafruit-10x5-Mounting-Grid/blob/d33e1e0b4c1b45982595221800574f549e9f9414/20260920_155558489_iOS.jpg)
 
 
