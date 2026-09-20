@@ -23,9 +23,7 @@ These are the various components you can mount to the board
 
 ## What it does
 
-1. Monitors soil moisture, temp, humidity, pressure, and battery
-2. Triggers water pump when dry
-3. Displays all info on OLED
+1. Creates a box to prototype projects
 
 ## Image
 
